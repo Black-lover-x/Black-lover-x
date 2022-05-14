@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Black-lover-x
-- 👀 I’m interested in Coding
+
 - 🌱 I’m currently learning HTML, CSS ,JS, PYTHON.
 
 
